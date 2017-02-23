@@ -1,0 +1,33 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++11
+    compiler.version=6.2
+    os=Linux
+
+[requires]
+    gtest/1.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++11
+    compiler.version=6.2
+    os=Linux
+
+[full_requires]
+    gtest/1.7.0@lasote/stable:376ea0804ce8fafcea70f651db612a88f50c6971
+
+[full_options]
+    gtest:shared=False
+
+[scope]
+    dev=True
+
+[recipe_hash]
+None

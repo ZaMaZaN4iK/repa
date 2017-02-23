@@ -1,0 +1,1 @@
+/usr/bin/c++          CMakeFiles/test_hello.dir/test_hello.cpp.o  -o ../bin/test_hello  -L/home/zamazan4ik/.conan/data/gtest/1.7.0/lasote/stable/package/376ea0804ce8fafcea70f651db612a88f50c6971/lib -rdynamic ../lib/libhello.a -lgtest -lgtest_main -lpthread -Wl,-rpath,/home/zamazan4ik/.conan/data/gtest/1.7.0/lasote/stable/package/376ea0804ce8fafcea70f651db612a88f50c6971/lib 
